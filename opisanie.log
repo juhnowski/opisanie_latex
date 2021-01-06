@@ -1,0 +1,5311 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.7)  6 JAN 2021 22:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**opisanie.tex
+(./opisanie.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count176
+\uc@combtoks=\toks14
+\uc@combtoksb=\toks15
+\uc@temptokena=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count177
+\U@D=\dimen135
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count178
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
+Package: mathtext 2018/04/14 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 121.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen136
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count179
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count180
+\leftroot@=\count181
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count182
+\DOTSCASE@=\count183
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+\symOMLletters=\mathgroup4
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\symOMSletters=\mathgroup5
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
+\dotsspace@=\muskip16
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks20
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks21
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count191
+\lst@gtempboxa=\box47
+\lst@token=\toks25
+\lst@length=\count192
+\lst@currlwidth=\dimen147
+\lst@column=\count193
+\lst@pos=\count194
+\lst@lostspace=\dimen148
+\lst@width=\dimen149
+\lst@newlines=\count195
+\lst@lineno=\count196
+\lst@maxwidth=\dimen150
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count197
+\lst@skipnumbers=\count198
+\lst@framebox=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
+Package: revsymb 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \frak on input line 94.
+LaTeX Info: Redefining \Bbb on input line 110.
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count199
+\Hy@pagecounter=\count266
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+\symPD1letters=\mathgroup8
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count267
+\pdfmajorversion=\count268
+Package hyperref Info: Option `unicode' set `true' on input line 3502.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+\symPUletters=\mathgroup9
+)
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count269
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen152
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count270
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count274
+\c@bookmark@seq@number=\count275
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 16.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count276
+\l__pdf_internal_box=\box49
+)
+(./opisanie.aux
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
+1.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `opisanie.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count277
+\scratchdimen=\dimen155
+\scratchbox=\box50
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen156
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count283
+\AtBeginShipoutBox=\box51
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count284
+)
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
+
+(./opisanie.out) (./opisanie.out)
+\@outlinefile=\write3
+\openout3 = `opisanie.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
+1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
+(Font)              using `OML/cmr/m/it' instead on input line 31.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 31.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+1.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
+(Font)              using `OMS/cmr/m/n' instead on input line 31.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 3
+1.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 31.
+
+
+LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 31.
+
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 31
+.
+LaTeX Font Info:    No file PUcmr.fd. on input line 31.
+
+LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 31.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (43.31578pt too wide) in paragraph at lines 32--32
+\T2A/cmr/bx/n/14.4 Алек-се-е-ва Дмит-ри-е-ву С.М., ди-рек-то-ру Образовательно-
+
+ []
+
+
+Overfull \hbox (6.69838pt too wide) in paragraph at lines 32--32
+\T2A/cmr/bx/n/14.4 че-ской фи-зи-ки им.академика Ф.М.Митенкова Хро-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51 
+      [1] [2] (./opisanie.toc
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+ [3
+
+] [4] [5])
+\tf@toc=\write4
+\openout4 = `opisanie.toc'.
+
+ [6]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+Overfull \hbox (3.2673pt too wide) in paragraph at lines 59--60
+[]\T2A/cmr/m/n/10.95 - ла-бо-ра-тор-ный оп-ти-че-ский стенд с про-стей-
+ []
+
+
+Overfull \hbox (2.58446pt too wide) in paragraph at lines 61--62
+[]\T2A/cmr/m/n/10.95 - ин-те-гра-ция двух
+ []
+
+[7
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 71.
+
+Missing character: There is no ш in font cmr10!
+[8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+<pictures/bloch.png, id=798, 220.825pt x 234.8775pt>
+File: pictures/bloch.png Graphic file (type png)
+<use pictures/bloch.png>
+Package pdftex.def Info: pictures/bloch.png  used on input line 117.
+(pdftex.def)             Requested size: 88.32843pt x 93.94933pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+
+ []
+
+<pictures/qubit.png, id=801, 357.9774pt x 196.5744pt>
+File: pictures/qubit.png Graphic file (type png)
+<use pictures/qubit.png>
+Package pdftex.def Info: pictures/qubit.png  used on input line 120.
+(pdftex.def)             Requested size: 143.18842pt x 78.62836pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+
+ []
+
+[9 <./pictures/bloch.png> <./pictures/qubit.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<pictures/basis.png, id=817, 841.1425pt x 616.3025pt>
+File: pictures/basis.png Graphic file (type png)
+<use pictures/basis.png>
+Package pdftex.def Info: pictures/basis.png  used on input line 200.
+(pdftex.def)             Requested size: 252.3447pt x 184.89217pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+[11 <./pictures/basis.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+<pictures/adamar.png, id=824, 769.87625pt x 654.445pt>
+File: pictures/adamar.png Graphic file (type png)
+<use pictures/adamar.png>
+Package pdftex.def Info: pictures/adamar.png  used on input line 240.
+(pdftex.def)             Requested size: 230.96466pt x 196.335pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+[12 <./pictures/adamar.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+
+Overfull \hbox (10.59898pt too wide) in paragraph at lines 322--329
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Overfull \hbox (0.36302pt too wide) in paragraph at lines 480--482
+\T2A/cmr/m/n/10.95 Поскольку из-ме-не-ние со-сто-я-ния и есть вы-чис-ле-ние, то
+ и "про-грам-ма"для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 486--497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--509
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+<pictures/cnot.png, id=845, 824.07875pt x 168.63pt>
+File: pictures/cnot.png Graphic file (type png)
+<use pictures/cnot.png>
+Package pdftex.def Info: pictures/cnot.png  used on input line 539.
+(pdftex.def)             Requested size: 247.22552pt x 50.58939pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--541
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--552
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+[16 <./pictures/cnot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 566--567
+
+ []
+
+<pictures/shema.png, id=851, 1009.7725pt x 234.8775pt>
+File: pictures/shema.png Graphic file (type png)
+<use pictures/shema.png>
+Package pdftex.def Info: pictures/shema.png  used on input line 568.
+(pdftex.def)             Requested size: 201.95091pt x 46.97466pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--592
+
+ []
+
+<pictures/adamar_ml.png, id=852, 536.0025pt x 196.735pt>
+File: pictures/adamar_ml.png Graphic file (type png)
+<use pictures/adamar_ml.png>
+Package pdftex.def Info: pictures/adamar_ml.png  used on input line 593.
+(pdftex.def)             Requested size: 107.1986pt x 39.3463pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 596--597
+
+ []
+
+
+Overfull \hbox (34.78188pt too wide) in paragraph at lines 598--611
+[]$\OML/cmm/m/it/10.95 I \OMS/cmsy/m/n/10.95 
+ \OML/cmm/m/it/10.95 H \PU/cmr/m/up/10.95 = [] [] [] = [] = [] []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 613--614
+
+ []
+
+[17 <./pictures/shema.png> <./pictures/adamar_ml.png>]
+<pictures/adamar_st.png, id=859, 552.0625pt x 228.855pt>
+File: pictures/adamar_st.png Graphic file (type png)
+<use pictures/adamar_st.png>
+Package pdftex.def Info: pictures/adamar_st.png  used on input line 615.
+(pdftex.def)             Requested size: 110.41054pt x 45.77019pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--617
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--633
+
+ []
+
+<pictures/cnot_3.png, id=860, 828.09375pt x 228.855pt>
+File: pictures/cnot_3.png Graphic file (type png)
+<use pictures/cnot_3.png>
+Package pdftex.def Info: pictures/cnot_3.png  used on input line 634.
+(pdftex.def)             Requested size: 248.43004pt x 68.65701pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 639--640
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--657
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 664--665
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
+
+ []
+
+[18 <./pictures/adamar_st.png> <./pictures/cnot_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 670--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--690
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 691--692
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 705--706
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 715--716
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--722
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--724
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--730
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--735
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--737
+
+ []
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 740.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 740.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 740.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 740.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--742
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--746
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--748
+
+ []
+
+<pictures/f_0.png, id=873, 366.36874pt x 143.53625pt>
+File: pictures/f_0.png Graphic file (type png)
+<use pictures/f_0.png>
+Package pdftex.def Info: pictures/f_0.png  used on input line 749.
+(pdftex.def)             Requested size: 109.91147pt x 43.0612pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--751
+
+ []
+
+[20]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 752.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 752.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--757
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--759
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--761
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--763
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 764--765
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 766--767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 768--769
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--776
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--778
+
+ []
+
+<pictures/f_1.png, id=880, 381.425pt x 142.5325pt>
+File: pictures/f_1.png Graphic file (type png)
+<use pictures/f_1.png>
+Package pdftex.def Info: pictures/f_1.png  used on input line 779.
+(pdftex.def)             Requested size: 114.42838pt x 42.76007pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 779--781
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 782.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 782.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--784
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--788
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--792
+
+ []
+
+[21 <./pictures/f_0.png> <./pictures/f_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 793--794
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--798
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
+
+ []
+
+<pictures/f_x.png, id=887, 404.51125pt x 180.675pt>
+File: pictures/f_x.png Graphic file (type png)
+<use pictures/f_x.png>
+Package pdftex.def Info: pictures/f_x.png  used on input line 808.
+(pdftex.def)             Requested size: 121.35431pt x 54.20291pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--810
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 811.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 811.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 814--815
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 816--817
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 820--821
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--830
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--832
+
+ []
+
+<pictures/f_not_x.png, id=888, 456.70625pt x 184.69pt>
+File: pictures/f_not_x.png Graphic file (type png)
+<use pictures/f_not_x.png>
+Package pdftex.def Info: pictures/f_not_x.png  used on input line 833.
+(pdftex.def)             Requested size: 137.01292pt x 55.40741pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--838
+
+ []
+
+[22 <./pictures/f_x.png> <./pictures/f_not_x.png>]
+<pictures/doych.png, id=895, 593.21625pt x 141.52875pt>
+File: pictures/doych.png Graphic file (type png)
+<use pictures/doych.png>
+Package pdftex.def Info: pictures/doych.png  used on input line 839.
+(pdftex.def)             Requested size: 177.96625pt x 42.45894pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--841
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--853
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--855
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--861
+
+ []
+
+[23 <./pictures/doych.png>]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--869
+
+ []
+
+<pictures/operators.png, id=902, 1581.91pt x 1300.86pt>
+File: pictures/operators.png Graphic file (type png)
+<use pictures/operators.png>
+Package pdftex.def Info: pictures/operators.png  used on input line 870.
+(pdftex.def)             Requested size: 316.3764pt x 260.16739pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 873--874
+
+ []
+
+[24
+
+ <./pictures/operators.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+
+ []
+
+
+Overfull \hbox (1.58101pt too wide) in paragraph at lines 913--914
+\T2A/cmr/m/n/10.95 блю-да-ют за-ко-ны со-хра-не-ний (энер-гии, им-пуль-са, за-р
+я-да, ба-ри-он-но-го чис-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 926--926
+[]\T2A/cmr/m/n/10.95 Заряженные век-тор-ные бо-зо-ны,
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 928--928
+[]\T2A/cmr/m/n/10.95 Нейтральный век-тор-ный бо-зон,
+ []
+
+
+Overfull \hbox (86.33855pt too wide) in paragraph at lines 917--935
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--935
+
+ []
+
+[25]
+<pictures/feinman.png, id=915, 303.1325pt x 205.76875pt>
+File: pictures/feinman.png Graphic file (type png)
+<use pictures/feinman.png>
+Package pdftex.def Info: pictures/feinman.png  used on input line 937.
+(pdftex.def)             Requested size: 303.13176pt x 205.76823pt.
+
+Overfull \hbox (11.63544pt too wide) in paragraph at lines 936--939
+[] \T2A/cmr/m/n/10.95 Рис.16 -- Диа-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 936--939
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 942--943
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--949
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--951
+
+ []
+
+[26 <./pictures/feinman.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 952--953
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--964
+
+ []
+
+[27]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 968--969
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 970--971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 972--973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 974--975
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 976--977
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--979
+
+ []
+
+[28
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 982--983
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--985
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 988--989
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 990--991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 992--993
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--995
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 996--997
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--999
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1003
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1005
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1011
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1012--1013
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1016--1017
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1019
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1032
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1036
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1043
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1053
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1055
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1059
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1063--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1076
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1077--1078
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1080
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1082
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1084
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1085--1086
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1090
+
+ []
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1094--1095
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1097
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1099
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1102--1103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1106--1107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1112--1113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1122--1123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1132--1133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1134--1135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1136--1137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1138--1139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1140--1141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1149--1150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1158
+
+ []
+
+
+Overfull \hbox (11.60353pt too wide) in paragraph at lines 1162--1163
+\T2A/cmr/m/n/10.95 Если су-ще-ству-ет точ-ка ра-ду-ги $\OML/cmm/m/it/10.95 a[] 
+\OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 C$\T2A/cmr/m/n/10.95 , опре-де-ля-е-м
+ая из урав-не-ния $\PU/cmr/m/up/10.95 
+[](\OML/cmm/m/it/10.95 a[]\PU/cmr/m/up/10.95 ) =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1167
+
+ []
+
+
+Overfull \hbox (1.21875pt too wide) in paragraph at lines 1168--1169
+[]$\OML/cmm/m/it/10.95 < b\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95   >[]\PU/cmr
+/m/up/10.95 = []\OML/cmm/m/it/10.95 e[] [][] dae[]\PU/cmr/m/up/10.95 ((\OML/cmm
+/m/it/10.95 a \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 a[]\PU/cmr/m/up/10.95
+ )(\OML/cmm/m/it/10.95 b[] \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 b\PU/cmr
+/m/up/10.95 ) + [](\OML/cmm/m/it/10.95 a \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/
+10.95 a[]\PU/cmr/m/up/10.95 )[]
+[](\OML/cmm/m/it/10.95 a[]\PU/cmr/m/up/10.95 ))$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1183--1184
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1190--1191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1198
+
+ []
+
+
+Overfull \hbox (0.3621pt too wide) in paragraph at lines 1199--1200
+\T2A/cmr/m/n/10.95 бу-дут иметь раз-мы-тые гра-ни-цы, а кар-ти-на ра-ду-ги мо-д
+и-фи-ци-ру-ет-ся силь-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1199--1200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1202--1203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1204--1205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1208--1209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1212--1213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1214--1215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1216--1217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1218--1219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1228--1229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1233--1242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1243--1244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1245--1246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1249--1250
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1284--1285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1286--1287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1289
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1290--1291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1295--1296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1297--1306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1307--1308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1309--1318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1319--1320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1328--1329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1330--1331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1336--1340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1341--1342
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1343--1344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1345--1346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1349--1350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1351--1352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1353--1354
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1366--1367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1369--1370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1371--1372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1375--1376
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1384--1385
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1393--1394
+
+ []
+
+<pictures/ng_1.png, id=980, 685.56125pt x 438.63875pt>
+File: pictures/ng_1.png Graphic file (type png)
+<use pictures/ng_1.png>
+Package pdftex.def Info: pictures/ng_1.png  used on input line 1395.
+(pdftex.def)             Requested size: 411.33992pt x 263.18527pt.
+
+Overfull \hbox (68.33992pt too wide) in paragraph at lines 1395--1397
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+
+ []
+
+[39 <./pictures/ng_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1400--1401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1428
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1432
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1434
+
+ []
+
+<pictures/ng_2.png, id=994, 1062.97125pt x 689.57625pt>
+File: pictures/ng_2.png Graphic file (type png)
+<use pictures/ng_2.png>
+Package pdftex.def Info: pictures/ng_2.png  used on input line 1435.
+(pdftex.def)             Requested size: 425.18097pt x 275.8256pt.
+
+Overfull \hbox (82.18097pt too wide) in paragraph at lines 1435--1437
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1437
+
+ []
+
+<pictures/ng_3.png, id=995, 1034.86626pt x 687.56876pt>
+File: pictures/ng_3.png Graphic file (type png)
+<use pictures/ng_3.png>
+Package pdftex.def Info: pictures/ng_3.png  used on input line 1438.
+(pdftex.def)             Requested size: 413.93916pt x 275.02263pt.
+
+Overfull \hbox (70.93916pt too wide) in paragraph at lines 1438--1440
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1438--1440
+
+ []
+
+[41 <./pictures/ng_2.png>]
+<pictures/ng_6.png, id=1001, 771.88374pt x 687.56876pt>
+File: pictures/ng_6.png Graphic file (type png)
+<use pictures/ng_6.png>
+Package pdftex.def Info: pictures/ng_6.png  used on input line 1441.
+(pdftex.def)             Requested size: 308.74802pt x 275.02263pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
+
+ []
+
+<pictures/ng_5.png, id=1002, 951.555pt x 707.64375pt>
+File: pictures/ng_5.png Graphic file (type png)
+<use pictures/ng_5.png>
+Package pdftex.def Info: pictures/ng_5.png  used on input line 1444.
+(pdftex.def)             Requested size: 380.61525pt x 283.05249pt.
+
+Overfull \hbox (37.61525pt too wide) in paragraph at lines 1444--1446
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1446
+
+ []
+
+[42 <./pictures/ng_3.png> <./pictures/ng_6.png>]
+<pictures/ng_4.png, id=1010, 959.585pt x 488.82625pt>
+File: pictures/ng_4.png Graphic file (type png)
+<use pictures/ng_4.png>
+Package pdftex.def Info: pictures/ng_4.png  used on input line 1447.
+(pdftex.def)             Requested size: 383.8272pt x 195.52702pt.
+
+Overfull \hbox (40.8272pt too wide) in paragraph at lines 1447--1449
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1447--1449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1456
+
+ []
+
+[43 <./pictures/ng_5.png> <./pictures/ng_4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
+
+ []
+
+[44]
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1478.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1478.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 1478.
+
+Missing character: There is no а in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no м in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1481--1485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1486--1487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1491
+
+ []
+
+[45]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+<pictures/ust_f.png, id=1025, 1193.45876pt x 754.82pt>
+File: pictures/ust_f.png Graphic file (type png)
+<use pictures/ust_f.png>
+Package pdftex.def Info: pictures/ust_f.png  used on input line 1498.
+(pdftex.def)             Requested size: 358.04039pt x 226.44775pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1500
+
+ []
+
+[46
+
+ <./pictures/ust_f.png>]
+<pictures/ust_a_1.png, id=1031, 263.98625pt x 352.31625pt>
+File: pictures/ust_a_1.png Graphic file (type png)
+<use pictures/ust_a_1.png>
+Package pdftex.def Info: pictures/ust_a_1.png  used on input line 1513.
+(pdftex.def)             Requested size: 79.19647pt x 105.69568pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1516--1517
+
+ []
+
+<pictures/ust_a_2.png, id=1032, 598.235pt x 657.45625pt>
+File: pictures/ust_a_2.png Graphic file (type png)
+<use pictures/ust_a_2.png>
+Package pdftex.def Info: pictures/ust_a_2.png  used on input line 1519.
+(pdftex.def)             Requested size: 179.47188pt x 197.23839pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+
+ []
+
+[47 <./pictures/ust_a_1.png> <./pictures/ust_a_2.png>]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<pictures/inter.png, id=1039, 887.315pt x 481.8pt>
+File: pictures/inter.png Graphic file (type png)
+<use pictures/inter.png>
+Package pdftex.def Info: pictures/inter.png  used on input line 1531.
+(pdftex.def)             Requested size: 266.19655pt x 144.5411pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1535--1536
+
+ []
+
+<pictures/inter_1.png, id=1040, 496.85625pt x 208.78pt>
+File: pictures/inter_1.png Graphic file (type png)
+<use pictures/inter_1.png>
+Package pdftex.def Info: pictures/inter_1.png  used on input line 1538.
+(pdftex.def)             Requested size: 447.16649pt x 187.90024pt.
+
+Overfull \hbox (87.16649pt too wide) in paragraph at lines 1538--1539
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1541--1542
+
+ []
+
+<pictures/ust_a.png, id=1041, 921.4425pt x 666.49pt>
+File: pictures/ust_a.png Graphic file (type png)
+<use pictures/ust_a.png>
+Package pdftex.def Info: pictures/ust_a.png  used on input line 1546.
+(pdftex.def)             Requested size: 276.43488pt x 199.94853pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1546--1548
+
+ []
+
+[48 <./pictures/inter.png>]
+<pictures/ust_a_3.png, id=1048, 1135.24126pt x 897.3525pt>
+File: pictures/ust_a_3.png Graphic file (type png)
+<use pictures/ust_a_3.png>
+Package pdftex.def Info: pictures/ust_a_3.png  used on input line 1560.
+(pdftex.def)             Requested size: 340.575pt x 269.20782pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1560--1562
+
+ []
+
+[49 <./pictures/inter_1.png> <./pictures/ust_a.png>]
+<pictures/ust_a_4.png, id=1055, 1592.95125pt x 901.3675pt>
+File: pictures/ust_a_4.png Graphic file (type png)
+<use pictures/ust_a_4.png>
+Package pdftex.def Info: pictures/ust_a_4.png  used on input line 1563.
+(pdftex.def)             Requested size: 350.45036pt x 198.30145pt.
+
+Overfull \hbox (7.45036pt too wide) in paragraph at lines 1563--1565
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1563--1565
+
+ []
+
+<pictures/ust_a_5.png, id=1056, 1592.95125pt x 898.35625pt>
+File: pictures/ust_a_5.png Graphic file (type png)
+<use pictures/ust_a_5.png>
+Package pdftex.def Info: pictures/ust_a_5.png  used on input line 1566.
+(pdftex.def)             Requested size: 350.45036pt x 197.63898pt.
+
+Overfull \hbox (7.45036pt too wide) in paragraph at lines 1566--1568
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1566--1568
+
+ []
+
+[50 <./pictures/ust_a_3.png> <./pictures/ust_a_4.png>]
+<pictures/ust_a_8.png, id=1063, 1596.96625pt x 903.375pt>
+File: pictures/ust_a_8.png Graphic file (type png)
+<use pictures/ust_a_8.png>
+Package pdftex.def Info: pictures/ust_a_8.png  used on input line 1569.
+(pdftex.def)             Requested size: 351.33366pt x 198.74312pt.
+
+Overfull \hbox (8.33366pt too wide) in paragraph at lines 1569--1571
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1569--1571
+
+ []
+
+<pictures/ust_a_6.png, id=1064, 1593.955pt x 897.3525pt>
+File: pictures/ust_a_6.png Graphic file (type png)
+<use pictures/ust_a_6.png>
+Package pdftex.def Info: pictures/ust_a_6.png  used on input line 1572.
+(pdftex.def)             Requested size: 350.67119pt x 197.41815pt.
+
+Overfull \hbox (7.67119pt too wide) in paragraph at lines 1572--1574
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1572--1574
+
+ []
+
+[51 <./pictures/ust_a_5.png> <./pictures/ust_a_8.png>]
+<pictures/ust_a_9.png, id=1071, 1601.985pt x 903.375pt>
+File: pictures/ust_a_9.png Graphic file (type png)
+<use pictures/ust_a_9.png>
+Package pdftex.def Info: pictures/ust_a_9.png  used on input line 1575.
+(pdftex.def)             Requested size: 352.43779pt x 198.74312pt.
+
+Overfull \hbox (9.43779pt too wide) in paragraph at lines 1575--1577
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1575--1577
+
+ []
+
+<pictures/ust_a_7.png, id=1072, 1599.9775pt x 902.37125pt>
+File: pictures/ust_a_7.png Graphic file (type png)
+<use pictures/ust_a_7.png>
+Package pdftex.def Info: pictures/ust_a_7.png  used on input line 1578.
+(pdftex.def)             Requested size: 351.99614pt x 198.52228pt.
+
+Overfull \hbox (8.99614pt too wide) in paragraph at lines 1578--1580
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1580
+
+ []
+
+[52 <./pictures/ust_a_6.png> <./pictures/ust_a_9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1582--1583
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1584--1585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
+
+ []
+
+[53 <./pictures/ust_a_7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1595--1596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1597--1598
+
+ []
+
+[54]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1601.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\alpha' on input line 1601.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1601.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1607
+[]\T2A/cmr/m/n/10.95 АРИА(обр)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1607
+\T2A/cmr/m/n/10.95 AAm1.1.S1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1607
+\T2A/cmr/m/n/10.95 AAm1.1.S2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1607
+[]\T2A/cmr/m/n/10.95 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1607
+\T2A/cmr/m/n/10.95 500
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1607
+\T2A/cmr/m/n/10.95 1000
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 1607--1608
+[]\T2A/cmr/m/n/10.95 Эталонные и кон-троль-ные
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 1609--1610
+[]\T2A/cmr/m/n/10.95 Для рент-ге-но-флю-о-рес-цент-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+[]\T2A/cmr/m/n/10.95 АИП-МИР-3А
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+\T2A/cmr/m/n/10.95 АИП-РИГ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+\T2A/cmr/m/n/10.95 АДИ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+\T2A/cmr/m/n/10.95 АИП-РИД
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+[]\T2A/cmr/m/n/10.95 5,9$\OMS/cmsy/m/n/10.95 ^^A\PU/cmr/m/up/10.95 10[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+\T2A/cmr/m/n/10.95 4,10$\OMS/cmsy/m/n/10.95 ^^A\PU/cmr/m/up/10.95 10[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+\T2A/cmr/m/n/10.95 2,1$\OMS/cmsy/m/n/10.95 ^^A\PU/cmr/m/up/10.95 10[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+\T2A/cmr/m/n/10.95 2,1$\OMS/cmsy/m/n/10.95 ^^A\PU/cmr/m/up/10.95 10[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+\T2A/cmr/m/n/10.95 2,1$\OMS/cmsy/m/n/10.95 ^^A\PU/cmr/m/up/10.95 10[]$
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 1611--1612
+[]\T2A/cmr/m/n/10.95 извещатели ды-ма, га-зо-вая
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 1611--1612
+\T2A/cmr/m/n/10.95 хро-мо-то-гра-фия, га-зо-ана-ли-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+[]\T2A/cmr/m/n/10.95 Pu-239
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+\T2A/cmr/m/n/10.95 U-234
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+\T2A/cmr/m/n/10.95 U-238
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 1613--1613
+[]\T2A/cmr/m/n/10.95 1П9 2П9 3П9
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 1613--1613
+\T2A/cmr/m/n/10.95 4П9 5П9 6П9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 1613--1613
+\T2A/cmr/m/n/10.95 1У4 2У4 3У4
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 1613--1613
+\T2A/cmr/m/n/10.95 4У4 5У4 6У4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 1613--1613
+\T2A/cmr/m/n/10.95 1У8 2У8 3У8
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 1613--1613
+\T2A/cmr/m/n/10.95 4У8 5У8 6У8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+[]\T2A/cmr/m/n/10.95 4-1,6$\OMS/cmsy/m/n/10.95 ^^A\PU/cmr/m/up/10.95 10[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+[]$\OMS/cmsy/m/n/10.95 ^^T$\T2A/cmr/m/n/10.95 5,2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+\OMS/cmsy/m/n/10.95 ^^T$\T2A/cmr/m/n/10.95 4,8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+
+ []
+
+
+Overfull \hbox (104.029pt too wide) in paragraph at lines 1603--1616
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1624--1624
+[]$[]$\T2A/cmr/m/n/10.95 Cf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1626--1626
+[]$[]$\T2A/cmr/m/n/10.95 Cm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1626--1626
+[]\T2A/cmr/m/n/10.95 NCm4.15.1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1626--1626
+\T2A/cmr/m/n/10.95 NCm4.15.2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1626--1626
+\T2A/cmr/m/n/10.95 NCm4.15.3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]$[]$\T2A/cmr/m/n/10.95 Cm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
+[]\T2A/cmr/m/n/10.95 НК248М11.44
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+[]\T2A/cmr/m/n/10.95 источники ней-трон-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+\T2A/cmr/m/n/10.95 из-лу-че-ния за-кры-тые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+\T2A/cmr/m/n/10.95 ис-поль-зу-ют-ся в ка-че-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+\T2A/cmr/m/n/10.95 стве об-раз-цо-вых при
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+\T2A/cmr/m/n/10.95 ат-те-ста-ции ис-точ-ни-ков
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+\T2A/cmr/m/n/10.95 ней-трон-но-го из-лу-че-
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 1628--1629
+\T2A/cmr/m/n/10.95 ния и и уста-но-вок для
+ []
+
+
+Overfull \hbox (104.029pt too wide) in paragraph at lines 1620--1632
+[]
+ []
+
+[55]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1633.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gamma' on input line 1633.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1633.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1640
+[]\T2A/cmr/m/n/10.95 Кобальт-57
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1640
+\T2A/cmr/m/n/10.95 Кобальт-60
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1640
+\T2A/cmr/m/n/10.95 Барий-133
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1640
+[]\T2A/cmr/m/n/10.95 0,037-370
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1640
+\T2A/cmr/m/n/10.95 0,037-3,7
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1640
+\T2A/cmr/m/n/10.95 0,037-37
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1640
+\T2A/cmr/m/n/10.95 0,0810-0,38385
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+[]\T2A/cmr/m/n/10.95 Натрий-22
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Титан-44
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Марганец-54
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Железо-55
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Кобальт-57
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Кобальт-60
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Цинк-65
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Иттрий-88
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Кадмий-109
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 Олово-113
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+[]\T2A/cmr/m/n/10.95 1,274
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 0,0689-1,157
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 0,8348
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 0,0059-0,0065
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 0,0144-0,1365
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 1,1732-13325
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 1,11554
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 0,898-1,8361
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 0,088
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1642
+\T2A/cmr/m/n/10.95 0,2551-0,3917
+ []
+
+
+Overfull \hbox (104.029pt too wide) in paragraph at lines 1634--1645
+[] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1648.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 1648.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1648.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1651--1651
+[]\T2A/cmr/m/n/10.95 Тип/код
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+[]\T2A/cmr/m/n/10.95 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Углерод-14
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Кобальт-60
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Никель-63
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Стронций-90+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Иттрий-90
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Рутений-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 106+Родий-106
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Цезий-137
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 Прометий-147
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+[]\T2A/cmr/m/n/10.95 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 49,44
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 96,9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 17,1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 196,3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 928
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 96,9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 179
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1653
+\T2A/cmr/m/n/10.95 62,1
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 1653--1654
+[]\T2A/cmr/m/n/10.95 Набор ОРИ-БИ пред-на-
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 1653--1654
+\T2A/cmr/m/n/10.95 и по-вер-ки ра-дио-мет-ров
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 1653--1654
+\T2A/cmr/m/n/10.95 вер-ки за-ви-си-мо-сти чув-
+ []
+
+
+Overfull \hbox (112.56493pt too wide) in paragraph at lines 1649--1657
+[]
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1661
+
+ []
+
+
+Overfull \hbox (1.44963pt too wide) in paragraph at lines 1667--1667
+[]\T2A/cmr/m/n/10.95 Поверхностно-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1667
+\T2A/cmr/m/n/10.95 барьерные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1667
+[]\T2A/cmr/m/n/10.95 ДКПс-25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1667
+\T2A/cmr/m/n/10.95 ДКПс-35
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1667
+\T2A/cmr/m/n/10.95 ДКПс-50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1667
+\T2A/cmr/m/n/10.95 ДКПс-100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1667
+\T2A/cmr/m/n/10.95 ДКПс-200
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1667
+\T2A/cmr/m/n/10.95 ДКПс-350
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 1667--1668
+[]\T2A/cmr/m/n/10.95 спектроскопия и ре-ги-стра-ция ко-рот-ко-беж-ных
+ []
+
+
+Overfull \hbox (1.44963pt too wide) in paragraph at lines 1669--1669
+[]\T2A/cmr/m/n/10.95 Поверхностно-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1669--1669
+\T2A/cmr/m/n/10.95 барьерные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1669--1669
+\T2A/cmr/m/n/10.95 крем-ни-е-вые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1669--1669
+[]\T2A/cmr/m/n/10.95 ДКПсд-20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1669--1669
+\T2A/cmr/m/n/10.95 ДКПсд-50
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 1669--1670
+[]\T2A/cmr/m/n/10.95 спектроскопия и ре-ги-стра-ция ко-рот-ко-беж-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+[]\T2A/cmr/m/n/10.95 Детекторы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\T2A/cmr/m/n/10.95 крем-ни-е-вые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\T2A/cmr/m/n/10.95 поверхностно-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\T2A/cmr/m/n/10.95 барьерные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\T2A/cmr/m/n/10.95 пол-но-стью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+[]\T2A/cmr/m/n/10.95 ДКПО-dE/dx-25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\T2A/cmr/m/n/10.95 ДКПО-dE/dx-50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+\T2A/cmr/m/n/10.95 ДКПО-dE/dx-125
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+[]\T2A/cmr/m/n/10.95 Детекторы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 крем-ни-е-вые
+ []
+
+
+Overfull \hbox (1.14655pt too wide) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 диффузионно-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+[]\T2A/cmr/m/n/10.95 ДКДПс-25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 ДКДПс-50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 ДКДПс-100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 ДКДПс-125
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 ДКДПс-200
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 ДКДПс-250
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
+\T2A/cmr/m/n/10.95 ДКДПс-350
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 1673--1674
+[]\T2A/cmr/m/n/10.95 можно ис-поль-зо-вать в при-бо-рах ав-то-ма-ти-че-
+ []
+
+
+Overfull \hbox (3.56142pt too wide) in paragraph at lines 1675--1675
+[]\T2A/cmr/m/n/10.95 Диффузионно-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1675
+\T2A/cmr/m/n/10.95 дрейфовые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1675
+\T2A/cmr/m/n/10.95 де-тек-то-ры
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1675
+\T2A/cmr/m/n/10.95 мат-рич-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1675
+[]\T2A/cmr/m/n/10.95 МДКД-П-10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1675
+\T2A/cmr/m/n/10.95 МДКД-П-20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1675
+\T2A/cmr/m/n/10.95 МДКД-П-30
+ []
+
+
+Overfull \hbox (3.56142pt too wide) in paragraph at lines 1677--1677
+[]\T2A/cmr/m/n/10.95 Диффузионно-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 дрейфовые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 пол-но-стью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 обед-нен-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+[]\T2A/cmr/m/n/10.95 ДКПО-Д-0,5-50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-1,0-50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-1,5-50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-2,0-50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-0,5-100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-1,0-100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-2,0-100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-0,5-200
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
+\T2A/cmr/m/n/10.95 ДКПО-Д-1,0-200
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 1677--1678
+[]\T2A/cmr/m/n/10.95 могут ра-бо-тать при дав-ле-нии ни-же 10$[]$
+ []
+
+
+Overfull \hbox (88.56494pt too wide) in paragraph at lines 1662--1680
+[] 
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1682
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1684
+
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 1685--1686
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1687--1688
+
+ []
+
+
+Overfull \hbox (11.99316pt too wide) in paragraph at lines 1689--1697
+\T2A/cmr/m/n/10.95 Описание:детектор крем-ни-е-вый диффузионно-дрейфовый пол-но
+-стью обед-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1689--1697
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1699--1710
+
+ []
+
+<pictures/dkpo_de_dx.png, id=1106, 293.095pt x 293.095pt>
+File: pictures/dkpo_de_dx.png Graphic file (type png)
+<use pictures/dkpo_de_dx.png>
+Package pdftex.def Info: pictures/dkpo_de_dx.png  used on input line 1711.
+(pdftex.def)             Requested size: 117.23592pt x 117.23592pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1711--1713
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1714--1721
+
+ []
+
+<pictures/d1a.png, id=1111, 277.035pt x 277.035pt>
+File: pictures/d1a.png Graphic file (type png)
+<use pictures/d1a.png>
+Package pdftex.def Info: pictures/d1a.png  used on input line 1722.
+(pdftex.def)             Requested size: 110.81203pt x 110.81203pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1722--1724
+
+ []
+
+
+Overfull \hbox (11.39981pt too wide) in paragraph at lines 1725--1733
+\T2A/cmr/m/n/10.95 Описание: по-лу-про-вод-ни-ко-вый крем-ни-е-вый де-тек-тор н
+ей-трон-но-го и гамма-
+ []
+
+
+Overfull \hbox (6.1083pt too wide) in paragraph at lines 1725--1733
+\T2A/cmr/m/n/10.95 излучения, пред-на-зна-чен для пре-об-ра-зо-ва-ния им-пульс-
+ных по-то-ков гамма-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1725--1733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1736
+
+ []
+
+[60 <./pictures/dkpo_de_dx.png> <./pictures/d1a.png>]
+<pictures/ust_f_1.png, id=1119, 1583.9175pt x 659.46375pt>
+File: pictures/ust_f_1.png Graphic file (type png)
+<use pictures/ust_f_1.png>
+Package pdftex.def Info: pictures/ust_f_1.png  used on input line 1737.
+(pdftex.def)             Requested size: 285.09285pt x 118.69835pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1740--1741
+
+ []
+
+<pictures/ad_620.png, id=1120, 573.14125pt x 253.94875pt>
+File: pictures/ad_620.png Graphic file (type png)
+<use pictures/ad_620.png>
+Package pdftex.def Info: pictures/ad_620.png  used on input line 1743.
+(pdftex.def)             Requested size: 343.8874pt x 152.3704pt.
+
+Overfull \hbox (0.8874pt too wide) in paragraph at lines 1743--1745
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1745
+
+ []
+
+<pictures/ad_8249.png, id=1121, 380.42125pt x 288.07625pt>
+File: pictures/ad_8249.png Graphic file (type png)
+<use pictures/ad_8249.png>
+Package pdftex.def Info: pictures/ad_8249.png  used on input line 1746.
+(pdftex.def)             Requested size: 304.3374pt x 230.4613pt.
+[61 <./pictures/ust_f_1.png> <./pictures/ad_620.png>]
+<pictures/stend_2.png, id=1128, 463.7325pt x 677.53125pt>
+File: pictures/stend_2.png Graphic file (type png)
+<use pictures/stend_2.png>
+Package pdftex.def Info: pictures/stend_2.png  used on input line 1750.
+(pdftex.def)             Requested size: 370.9865pt x 542.02573pt.
+
+Overfull \hbox (10.9865pt too wide) in paragraph at lines 1750--1752
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1752
+
+ []
+
+[62 <./pictures/ad_8249.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1755
+
+ []
+
+[63 <./pictures/stend_2.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1756.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\alpha' on input line 1756.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1756.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1758
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1760
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1761--1762
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1763--1764
+
+ []
+
+
+Overfull \hbox (4.95174pt too wide) in paragraph at lines 1765--1766
+[]\T2A/cmr/m/n/10.95 Были вы-чис-ле-ны до-ли про-цес-сов, в об-ра-зо-ва-нии $\O
+ML/cmm/m/it/10.95 ^^M[]$\T2A/cmr/m/n/10.95 -излучения, а имен-
+ []
+
+
+Overfull \hbox (17.92061pt too wide) in paragraph at lines 1765--1766
+\T2A/cmr/m/n/10.95 но: столк-но-ве-ния $[]$H$[]$ (три-то-ны), $[]$H$[]$, $[]$H$
+[]$(протоны), $[]$H(тритий), $[]$H(атомы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1767--1768
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1769--1770
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1771--1772
+
+ []
+
+<pictures/lyman.png, id=1141, 745.78625pt x 625.33624pt>
+File: pictures/lyman.png Graphic file (type png)
+<use pictures/lyman.png>
+Package pdftex.def Info: pictures/lyman.png  used on input line 1773.
+(pdftex.def)             Requested size: 372.89221pt x 312.66736pt.
+
+Overfull \hbox (29.89221pt too wide) in paragraph at lines 1773--1775
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1775
+
+ []
+
+[64] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1777
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1778--1779
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1780--1781
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1782--1788
+
+ []
+
+[65 <./pictures/lyman.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1791--1792
+
+ []
+
+<pictures/lyman_p.png, id=1153, 627.34375pt x 633.36626pt>
+File: pictures/lyman_p.png Graphic file (type png)
+<use pictures/lyman_p.png>
+Package pdftex.def Info: pictures/lyman_p.png  used on input line 1793.
+(pdftex.def)             Requested size: 313.6711pt x 316.68236pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1796--1797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1798--1799
+
+ []
+
+<pictures/lyman_x.png, id=1154, 646.415pt x 494.84875pt>
+File: pictures/lyman_x.png Graphic file (type png)
+<use pictures/lyman_x.png>
+Package pdftex.def Info: pictures/lyman_x.png  used on input line 1800.
+(pdftex.def)             Requested size: 323.20671pt x 247.42377pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1802
+
+ []
+
+[66 <./pictures/lyman_p.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+
+ []
+
+<pictures/stend_3_1.png, id=1161, 557.08125pt x 811.03pt>
+File: pictures/stend_3_1.png Graphic file (type png)
+<use pictures/stend_3_1.png>
+Package pdftex.def Info: pictures/stend_3_1.png  used on input line 1806.
+(pdftex.def)             Requested size: 389.95422pt x 567.71713pt.
+
+Overfull \hbox (29.95422pt too wide) in paragraph at lines 1806--1808
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1806--1808
+
+ []
+
+[67 <./pictures/lyman_x.png>]
+<pictures/stend_3_2.png, id=1167, 563.10374pt x 837.1275pt>
+File: pictures/stend_3_2.png Graphic file (type png)
+<use pictures/stend_3_2.png>
+Package pdftex.def Info: pictures/stend_3_2.png  used on input line 1809.
+(pdftex.def)             Requested size: 394.16994pt x 585.98526pt.
+
+Overfull \hbox (51.16994pt too wide) in paragraph at lines 1809--1811
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1811
+
+ []
+
+[68 <./pictures/stend_3_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1814
+
+ []
+
+[69 <./pictures/stend_3_2.png>]
+Overfull \hbox (3.20667pt too wide) in paragraph at lines 1817--1834
+[] 
+ []
+
+
+Overfull \hbox (3.20667pt too wide) in paragraph at lines 1837--1854
+[] 
+ []
+
+
+Overfull \hbox (3.20667pt too wide) in paragraph at lines 1856--1865
+[] 
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 1873--1873
+[]\T2A/cmr/m/n/10.95 Прочие ра-дио-де-та-ли (со-про-
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 1875--1875
+\T2A/cmr/m/n/10.95 ме-сти-мый кон-трол-лер с USB
+ []
+
+
+Overfull \hbox (3.20667pt too wide) in paragraph at lines 1867--1878
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1882--1883
+[]\T2A/cmr/m/n/10.95 Стоимость,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1884--1884
+[]\T2A/cmr/m/n/10.95 Плита алю-ми-ни-е-вая АМГ6
+ []
+
+
+Overfull \hbox (3.20667pt too wide) in paragraph at lines 1880--1891
+[] 
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 1895--1896
+[]\T2A/cmr/m/n/10.95 Стоимость,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1897--1897
+[]\T2A/cmr/m/n/10.95 Двухступенчатый ши-бер-
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 1897--1897
+\T2A/cmr/m/n/10.95 ный вы-со-ко-ва-ку-ум-ный на-сос
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1897--1897
+\T2A/cmr/m/n/10.95 Rothenberger POАЭРBAK
+ []
+
+
+Overfull \hbox (3.20667pt too wide) in paragraph at lines 1893--1902
+[] 
+ []
+
+[71]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1913
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1919
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1920--1921
+
+ []
+
+[72
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1931--1932
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1933--1934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1935--1936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1940
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1941--1942
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1944
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1946
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1947--1948
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1949--1950
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1952
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1953--1954
+
+ []
+
+<pictures/ip.png, id=1195, 374.39874pt x 361.35pt>
+File: pictures/ip.png Graphic file (type png)
+<use pictures/ip.png>
+Package pdftex.def Info: pictures/ip.png  used on input line 1957.
+(pdftex.def)             Requested size: 374.39783pt x 361.34912pt.
+
+Overfull \hbox (31.39783pt too wide) in paragraph at lines 1957--1958
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1958
+
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 1959--1960
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1964
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1965--1966
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1967--1968
+
+ []
+
+[75 <./pictures/ip.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1969--1970
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1972
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1973--1974
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1975--1976
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1978
+
+ []
+
+<pictures/decay_pp.png, id=1206, 660.4675pt x 343.2825pt>
+File: pictures/decay_pp.png Graphic file (type png)
+<use pictures/decay_pp.png>
+Package pdftex.def Info: pictures/decay_pp.png  used on input line 1979.
+(pdftex.def)             Requested size: 330.23294pt x 171.64082pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1980
+
+ []
+
+<pictures/decay_p0.png, id=1207, 666.49pt x 468.75125pt>
+File: pictures/decay_p0.png Graphic file (type png)
+<use pictures/decay_p0.png>
+Package pdftex.def Info: pictures/decay_p0.png  used on input line 1981.
+(pdftex.def)             Requested size: 333.24419pt x 234.37505pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1981--1982
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1984
+
+ []
+
+[76 <./pictures/decay_pp.png> <./pictures/decay_p0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1985--1986
+
+ []
+
+[77]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1994--1995
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1996--1997
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1998--1999
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2001
+
+ []
+
+<model/Difraction/setup.jpeg, id=1220, 392.46625pt x 129.48375pt>
+File: model/Difraction/setup.jpeg Graphic file (type jpg)
+<use model/Difraction/setup.jpeg>
+Package pdftex.def Info: model/Difraction/setup.jpeg  used on input line 2006.
+(pdftex.def)             Requested size: 196.23264pt x 64.7417pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2006--2008
+
+ []
+
+[78
+
+]
+<model/Difraction/image.png, id=1227, 445.665pt x 429.605pt>
+File: model/Difraction/image.png Graphic file (type png)
+<use model/Difraction/image.png>
+Package pdftex.def Info: model/Difraction/image.png  used on input line 2010.
+(pdftex.def)             Requested size: 222.83195pt x 214.80197pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2012
+
+ []
+
+<model/Frenel/FresnelPlaneSetup.png, id=1229, 263.48438pt x 298.86656pt>
+File: model/Frenel/FresnelPlaneSetup.png Graphic file (type png)
+<use model/Frenel/FresnelPlaneSetup.png>
+Package pdftex.def Info: model/Frenel/FresnelPlaneSetup.png  used on input line
+ 2019.
+(pdftex.def)             Requested size: 131.74185pt x 149.4329pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2019--2021
+
+ []
+
+[79 <./model/Difraction/setup.jpeg> <./model/Difraction/image.png>]
+<model/Frenel/00_01.png, id=1236, 544.0325pt x 543.02875pt>
+File: model/Frenel/00_01.png Graphic file (type png)
+<use model/Frenel/00_01.png>
+Package pdftex.def Info: model/Frenel/00_01.png  used on input line 2027.
+(pdftex.def)             Requested size: 108.80457pt x 108.60382pt.
+
+Overfull \hbox (3.52946pt too wide) in paragraph at lines 2027--2027
+[][]| 
+ []
+
+<model/Frenel/01_20.png, id=1237, 545.03625pt x 543.02875pt>
+File: model/Frenel/01_20.png Graphic file (type png)
+<use model/Frenel/01_20.png>
+Package pdftex.def Info: model/Frenel/01_20.png  used on input line 2027.
+(pdftex.def)             Requested size: 109.00531pt x 108.60382pt.
+
+Overfull \hbox (3.73021pt too wide) in paragraph at lines 2027--2027
+[][]| 
+ []
+
+<model/Frenel/04_77.png, id=1238, 542.025pt x 542.025pt>
+File: model/Frenel/04_77.png Graphic file (type png)
+<use model/Frenel/04_77.png>
+Package pdftex.def Info: model/Frenel/04_77.png  used on input line 2027.
+(pdftex.def)             Requested size: 108.40308pt x 108.40308pt.
+
+Overfull \hbox (3.12798pt too wide) in paragraph at lines 2027--2027
+[][]| 
+ []
+
+<model/Frenel/10_72.png, id=1239, 539.01375pt x 540.0175pt>
+File: model/Frenel/10_72.png Graphic file (type png)
+<use model/Frenel/10_72.png>
+Package pdftex.def Info: model/Frenel/10_72.png  used on input line 2027.
+(pdftex.def)             Requested size: 107.80083pt x 108.00157pt.
+
+Overfull \hbox (2.52573pt too wide) in paragraph at lines 2027--2028
+[][]| 
+ []
+
+<model/Frenel/11_91.png, id=1240, 542.025pt x 543.02875pt>
+File: model/Frenel/11_91.png Graphic file (type png)
+<use model/Frenel/11_91.png>
+Package pdftex.def Info: model/Frenel/11_91.png  used on input line 2030.
+(pdftex.def)             Requested size: 108.40308pt x 108.60382pt.
+
+Overfull \hbox (3.12798pt too wide) in paragraph at lines 2030--2030
+[][]| 
+ []
+
+<model/Frenel/13_10.png, id=1241, 544.0325pt x 543.02875pt>
+File: model/Frenel/13_10.png Graphic file (type png)
+<use model/Frenel/13_10.png>
+Package pdftex.def Info: model/Frenel/13_10.png  used on input line 2030.
+(pdftex.def)             Requested size: 108.80457pt x 108.60382pt.
+
+Overfull \hbox (3.52946pt too wide) in paragraph at lines 2030--2030
+[][]| 
+ []
+
+<model/Frenel/14_29.png, id=1242, 542.025pt x 543.02875pt>
+File: model/Frenel/14_29.png Graphic file (type png)
+<use model/Frenel/14_29.png>
+Package pdftex.def Info: model/Frenel/14_29.png  used on input line 2030.
+(pdftex.def)             Requested size: 108.40308pt x 108.60382pt.
+
+Overfull \hbox (3.12798pt too wide) in paragraph at lines 2030--2030
+[][]| 
+ []
+
+<model/Frenel/15_49.png, id=1243, 542.025pt x 542.025pt>
+File: model/Frenel/15_49.png Graphic file (type png)
+<use model/Frenel/15_49.png>
+Package pdftex.def Info: model/Frenel/15_49.png  used on input line 2030.
+(pdftex.def)             Requested size: 108.40308pt x 108.40308pt.
+
+Overfull \hbox (3.12798pt too wide) in paragraph at lines 2030--2031
+[][]| 
+ []
+
+
+Overfull \hbox (109.1004pt too wide) in paragraph at lines 2024--2034
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2024--2034
+
+ []
+
+[80 <./model/Frenel/FresnelPlaneSetup.png> <./model/Frenel/00_01.png> <./model/
+Frenel/01_20.png> <./model/Frenel/04_77.png> <./model/Frenel/10_72.png> <./mode
+l/Frenel/11_91.png> <./model/Frenel/13_10.png> <./model/Frenel/14_29.png> <./mo
+del/Frenel/15_49.png>]
+<model/FrenelSphere/FresnelSphericalSetup.png, id=1259, 380.92313pt x 298.11375
+pt>
+File: model/FrenelSphere/FresnelSphericalSetup.png Graphic file (type png)
+<use model/FrenelSphere/FresnelSphericalSetup.png>
+Package pdftex.def Info: model/FrenelSphere/FresnelSphericalSetup.png  used on 
+input line 2040.
+(pdftex.def)             Requested size: 190.46109pt x 149.0565pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2040--2042
+
+ []
+
+<model/FrenelSphere/50_04.png, id=1260, 538.01pt x 540.0175pt>
+File: model/FrenelSphere/50_04.png Graphic file (type png)
+<use model/FrenelSphere/50_04.png>
+Package pdftex.def Info: model/FrenelSphere/50_04.png  used on input line 2048.
+
+(pdftex.def)             Requested size: 107.60008pt x 108.00157pt.
+
+Overfull \hbox (2.32498pt too wide) in paragraph at lines 2048--2048
+[][]| 
+ []
+
+<model/FrenelSphere/50_50.png, id=1261, 544.0325pt x 543.02875pt>
+File: model/FrenelSphere/50_50.png Graphic file (type png)
+<use model/FrenelSphere/50_50.png>
+Package pdftex.def Info: model/FrenelSphere/50_50.png  used on input line 2048.
+
+(pdftex.def)             Requested size: 108.80457pt x 108.60382pt.
+
+Overfull \hbox (3.52946pt too wide) in paragraph at lines 2048--2048
+[][]| 
+ []
+
+<model/FrenelSphere/50_100.png, id=1262, 544.0325pt x 545.03625pt>
+File: model/FrenelSphere/50_100.png Graphic file (type png)
+<use model/FrenelSphere/50_100.png>
+Package pdftex.def Info: model/FrenelSphere/50_100.png  used on input line 2048
+.
+(pdftex.def)             Requested size: 108.80457pt x 109.00531pt.
+
+Overfull \hbox (3.52946pt too wide) in paragraph at lines 2048--2048
+[][]| 
+ []
+
+<model/FrenelSphere/50_150.png, id=1263, 545.03625pt x 544.0325pt>
+File: model/FrenelSphere/50_150.png Graphic file (type png)
+<use model/FrenelSphere/50_150.png>
+Package pdftex.def Info: model/FrenelSphere/50_150.png  used on input line 2048
+.
+(pdftex.def)             Requested size: 109.00531pt x 108.80457pt.
+
+Overfull \hbox (3.73021pt too wide) in paragraph at lines 2048--2049
+[][]| 
+ []
+
+
+Overfull \hbox (109.1004pt too wide) in paragraph at lines 2045--2052
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2045--2052
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2054--2055
+
+ []
+
+[81 <./model/FrenelSphere/FresnelSphericalSetup.png> <./model/FrenelSphere/50_0
+4.png> <./model/FrenelSphere/50_50.png> <./model/FrenelSphere/50_100.png> <./mo
+del/FrenelSphere/50_150.png>]
+<model/ReflectRefract/ReflectSetup.png, id=1276, 231.264pt x 208.1376pt>
+File: model/ReflectRefract/ReflectSetup.png Graphic file (type png)
+<use model/ReflectRefract/ReflectSetup.png>
+Package pdftex.def Info: model/ReflectRefract/ReflectSetup.png  used on input l
+ine 2058.
+(pdftex.def)             Requested size: 161.88368pt x 145.69531pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2060
+
+ []
+
+<model/ReflectRefract/r_32_14.png, id=1277, 247.92625pt x 248.93pt>
+File: model/ReflectRefract/r_32_14.png Graphic file (type png)
+<use model/ReflectRefract/r_32_14.png>
+Package pdftex.def Info: model/ReflectRefract/r_32_14.png  used on input line 2
+066.
+(pdftex.def)             Requested size: 99.16873pt x 99.57022pt.
+<model/ReflectRefract/r_37_50.png, id=1278, 250.9375pt x 247.92625pt>
+File: model/ReflectRefract/r_37_50.png Graphic file (type png)
+<use model/ReflectRefract/r_37_50.png>
+Package pdftex.def Info: model/ReflectRefract/r_37_50.png  used on input line 2
+066.
+(pdftex.def)             Requested size: 100.37321pt x 99.16873pt.
+<model/ReflectRefract/r_40.png, id=1279, 253.94875pt x 253.94875pt>
+File: model/ReflectRefract/r_40.png Graphic file (type png)
+<use model/ReflectRefract/r_40.png>
+Package pdftex.def Info: model/ReflectRefract/r_40.png  used on input line 2066
+.
+(pdftex.def)             Requested size: 101.5777pt x 101.5777pt.
+<model/ReflectRefract/r_41_25.png, id=1280, 252.945pt x 249.93375pt>
+File: model/ReflectRefract/r_41_25.png Graphic file (type png)
+<use model/ReflectRefract/r_41_25.png>
+Package pdftex.def Info: model/ReflectRefract/r_41_25.png  used on input line 2
+066.
+(pdftex.def)             Requested size: 101.17621pt x 99.97173pt.
+<model/ReflectRefract/t_32_14.png, id=1281, 252.945pt x 252.945pt>
+File: model/ReflectRefract/t_32_14.png Graphic file (type png)
+<use model/ReflectRefract/t_32_14.png>
+Package pdftex.def Info: model/ReflectRefract/t_32_14.png  used on input line 2
+068.
+(pdftex.def)             Requested size: 101.17621pt x 101.17621pt.
+<model/ReflectRefract/t_37_50.png, id=1282, 248.93pt x 247.92625pt>
+File: model/ReflectRefract/t_37_50.png Graphic file (type png)
+<use model/ReflectRefract/t_37_50.png>
+Package pdftex.def Info: model/ReflectRefract/t_37_50.png  used on input line 2
+068.
+(pdftex.def)             Requested size: 99.57022pt x 99.16873pt.
+<model/ReflectRefract/t_40.png, id=1283, 251.94125pt x 249.93375pt>
+File: model/ReflectRefract/t_40.png Graphic file (type png)
+<use model/ReflectRefract/t_40.png>
+Package pdftex.def Info: model/ReflectRefract/t_40.png  used on input line 2068
+.
+(pdftex.def)             Requested size: 100.7747pt x 99.97173pt.
+<model/ReflectRefract/t_41_25.png, id=1284, 248.93pt x 248.93pt>
+File: model/ReflectRefract/t_41_25.png Graphic file (type png)
+<use model/ReflectRefract/t_41_25.png>
+Package pdftex.def Info: model/ReflectRefract/t_41_25.png  used on input line 2
+068.
+(pdftex.def)             Requested size: 99.57022pt x 99.57022pt.
+
+Overfull \hbox (109.1004pt too wide) in paragraph at lines 2063--2073
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2063--2073
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2075--2076
+
+ []
+
+[82 <./model/ReflectRefract/ReflectSetup.png (PNG copy)> <./model/ReflectRefrac
+t/r_32_14.png> <./model/ReflectRefract/r_37_50.png> <./model/ReflectRefract/r_4
+0.png> <./model/ReflectRefract/r_41_25.png> <./model/ReflectRefract/t_32_14.png
+> <./model/ReflectRefract/t_37_50.png> <./model/ReflectRefract/t_40.png> <./mod
+el/ReflectRefract/t_41_25.png>]
+<model/Yung/twoholessetup.png, id=1298, 350.30875pt x 413.545pt>
+File: model/Yung/twoholessetup.png Graphic file (type png)
+<use model/Yung/twoholessetup.png>
+Package pdftex.def Info: model/Yung/twoholessetup.png  used on input line 2079.
+
+(pdftex.def)             Requested size: 245.21445pt x 289.4795pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2079--2081
+
+ []
+
+<model/Yung/young.png, id=1299, 366.36874pt x 367.3725pt>
+File: model/Yung/young.png Graphic file (type png)
+<use model/Yung/young.png>
+Package pdftex.def Info: model/Yung/young.png  used on input line 2083.
+(pdftex.def)             Requested size: 146.54489pt x 146.94638pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2083--2085
+
+ []
+
+[83 <./model/Yung/twoholessetup.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2087--2088
+
+ []
+
+<model/Gauss/hg_laser_mode.png, id=1307, 962.59625pt x 562.1pt>
+File: model/Gauss/hg_laser_mode.png Graphic file (type png)
+<use model/Gauss/hg_laser_mode.png>
+Package pdftex.def Info: model/Gauss/hg_laser_mode.png  used on input line 2093
+.
+(pdftex.def)             Requested size: 385.03168pt x 224.83601pt.
+
+Overfull \hbox (25.03168pt too wide) in paragraph at lines 2093--2095
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2093--2095
+
+ []
+
+[84 <./model/Yung/young.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2097--2098
+
+ []
+
+<model/Gauss/Gauss_laser_mode_LG.png, id=1316, 794.97pt x 505.89pt>
+File: model/Gauss/Gauss_laser_mode_LG.png Graphic file (type png)
+<use model/Gauss/Gauss_laser_mode_LG.png>
+Package pdftex.def Info: model/Gauss/Gauss_laser_mode_LG.png  used on input lin
+e 2101.
+(pdftex.def)             Requested size: 476.98569pt x 303.53633pt.
+
+Overfull \hbox (116.98569pt too wide) in paragraph at lines 2101--2103
+[] 
+ []
+
+[85 <./model/Gauss/hg_laser_mode.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2104--2105
+
+ []
+
+<model/MultiSlits/screen.png, id=1324, 147.55125pt x 147.55125pt>
+File: model/MultiSlits/screen.png Graphic file (type png)
+<use model/MultiSlits/screen.png>
+Package pdftex.def Info: model/MultiSlits/screen.png  used on input line 2110.
+(pdftex.def)             Requested size: 103.28516pt x 103.28516pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2112
+
+ []
+
+[86 <./model/Gauss/Gauss_laser_mode_LG.png>]
+<model/MultiSlits/image.png, id=1331, 148.555pt x 146.5475pt>
+File: model/MultiSlits/image.png Graphic file (type png)
+<use model/MultiSlits/image.png>
+Package pdftex.def Info: model/MultiSlits/image.png  used on input line 2113.
+(pdftex.def)             Requested size: 148.55463pt x 146.54712pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2113--2115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2116--2117
+
+ []
+
+<model/MultiHole/screen.png, id=1333, 150.5625pt x 153.57375pt>
+File: model/MultiHole/screen.png Graphic file (type png)
+<use model/MultiHole/screen.png>
+Package pdftex.def Info: model/MultiHole/screen.png  used on input line 2122.
+(pdftex.def)             Requested size: 105.39302pt x 107.50089pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2120--2124
+
+ []
+
+[87 <./model/MultiSlits/screen.png> <./model/MultiSlits/image.png>]
+<model/MultiHole/intencity.png, id=1341, 149.55875pt x 149.55875pt>
+File: model/MultiHole/intencity.png Graphic file (type png)
+<use model/MultiHole/intencity.png>
+Package pdftex.def Info: model/MultiHole/intencity.png  used on input line 2125
+.
+(pdftex.def)             Requested size: 104.6904pt x 104.6904pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2128--2129
+
+ []
+
+<model/ShackHartman/plane_screen.png, id=1343, 218.8175pt x 217.81375pt>
+File: model/ShackHartman/plane_screen.png Graphic file (type png)
+<use model/ShackHartman/plane_screen.png>
+Package pdftex.def Info: model/ShackHartman/plane_screen.png  used on input lin
+e 2134.
+(pdftex.def)             Requested size: 153.17119pt x 152.46857pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2132--2136
+
+ []
+
+[88 <./model/MultiHole/screen.png> <./model/MultiHole/intencity.png>]
+<model/ShackHartman/defocus.png, id=1351, 555.07375pt x 526.96875pt>
+File: model/ShackHartman/defocus.png Graphic file (type png)
+<use model/ShackHartman/defocus.png>
+Package pdftex.def Info: model/ShackHartman/defocus.png  used on input line 213
+8.
+(pdftex.def)             Requested size: 166.52339pt x 158.09184pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2138--2140
+
+ []
+
+<model/ShackHartman/vert.png, id=1352, 567.11874pt x 528.97626pt>
+File: model/ShackHartman/vert.png Graphic file (type png)
+<use model/ShackHartman/vert.png>
+Package pdftex.def Info: model/ShackHartman/vert.png  used on input line 2141.
+(pdftex.def)             Requested size: 170.13693pt x 158.69409pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2141--2143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2144--2145
+
+ []
+
+[89 <./model/ShackHartman/plane_screen.png> <./model/ShackHartman/defocus.png> 
+<./model/ShackHartman/vert.png>]
+<model/TwoSlitsTilts/plane.png, id=1361, 361.35pt x 359.3425pt>
+File: model/TwoSlitsTilts/plane.png Graphic file (type png)
+<use model/TwoSlitsTilts/plane.png>
+Package pdftex.def Info: model/TwoSlitsTilts/plane.png  used on input line 2150
+.
+(pdftex.def)             Requested size: 108.40584pt x 107.80357pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2149--2152
+
+ []
+
+<model/TwoSlitsTilts/intencity.png, id=1362, 359.3425pt x 358.33875pt>
+File: model/TwoSlitsTilts/intencity.png Graphic file (type png)
+<use model/TwoSlitsTilts/intencity.png>
+Package pdftex.def Info: model/TwoSlitsTilts/intencity.png  used on input line 
+2153.
+(pdftex.def)             Requested size: 107.80357pt x 107.50244pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2157
+
+ []
+
+<model/TwoSlitsTilts2/plane_screen.png, id=1364, 362.35374pt x 360.34625pt>
+File: model/TwoSlitsTilts2/plane_screen.png Graphic file (type png)
+<use model/TwoSlitsTilts2/plane_screen.png>
+Package pdftex.def Info: model/TwoSlitsTilts2/plane_screen.png  used on input l
+ine 2161.
+(pdftex.def)             Requested size: 108.70695pt x 108.1047pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2160--2163
+
+ []
+
+[90 <./model/TwoSlitsTilts/plane.png> <./model/TwoSlitsTilts/intencity.png>]
+<model/TwoSlitsTilts2/intencity.png, id=1374, 362.35374pt x 359.3425pt>
+File: model/TwoSlitsTilts2/intencity.png Graphic file (type png)
+<use model/TwoSlitsTilts2/intencity.png>
+Package pdftex.def Info: model/TwoSlitsTilts2/intencity.png  used on input line
+ 2164.
+(pdftex.def)             Requested size: 108.70695pt x 107.80357pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2164--2166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2167--2168
+
+ []
+
+<model/MachZender/image.png, id=1376, 362.35374pt x 360.34625pt>
+File: model/MachZender/image.png Graphic file (type png)
+<use model/MachZender/image.png>
+Package pdftex.def Info: model/MachZender/image.png  used on input line 2171.
+(pdftex.def)             Requested size: 108.70695pt x 108.1047pt.
+[91 <./model/TwoSlitsTilts2/plane_screen.png> <./model/TwoSlitsTilts2/intencity
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2174--2175
+
+ []
+
+[92 <./model/MachZender/image.png>]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2183--2184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2185--2186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2187--2188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2191--2192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2193--2194
+
+ []
+
+
+Overfull \hbox (0.11879pt too wide) in paragraph at lines 2195--2196
+[]\T2A/cmr/m/n/10.95 Теоретически бы-ла про-де-мон-стри-ро-ва-на воз-мож-ность 
+со-зда-ния кван-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2195--2196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2197--2198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2199--2200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2204--2205
+
+ []
+
+[93
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2206--2207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2209--2210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2211--2212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2213--2214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2215--2216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2217--2218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2219--2220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2221--2222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2223--2224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2225--2226
+
+ []
+
+[94]
+Underfull \hbox (badness 10000) in paragraph at lines 2233--2234
+[]\T2A/cmr/m/n/10.95 Сысоев С.С., Санкт-Петербургский го-су-дар-ствен-ный уни-
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 2233--2234
+\T2A/cmr/m/n/10.95 вер-си-тет --- Кван-то-вые вы-чис-ле-ния (Quantum computing)
+ ---
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2235--2236
+[]\T2A/cmr/m/n/10.95 Martin Pohl, Anna Sfyrla, Mercedes Paniccia, Уни-вер-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2235--2236
+\T2A/cmr/m/n/10.95 си-тет Же-не-вы --- Particle Physics: an Introduction. ---
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 2237--2238
+\T2A/cmr/m/n/10.95 P. Hughes, Robert E. Vest, Charles Clark --- Observation of 
+the
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 2237--2238
+[]$\T2A/cmr/m/n/10.95 He(n, tp) Reaction by Detection of Far-Ultraviolet Radiat
+ion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2238
+\T2A/cmr/m/n/10.95 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4654066/ Publis
+hed
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 2239--2240
+\T2A/cmr/m/n/10.95 P. Hughes, Robert E. Vest, Charles Clark ---The Detection of
+
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 2239--2240
+\T2A/cmr/m/n/10.95 and Tritons Produced by the 3He (n, tp) Reaction^^VA Model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2239--2240
+\T2A/cmr/m/n/10.95 Study https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646570/
+ []
+
+[95
+
+] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-254.def
+File: uni-254.def 2013/05/13 UCS: Unicode data U+FE00..U+FEFF
+)
+Overfull \hbox (79.61978pt too wide) in paragraph at lines 2259--2260
+[][][]$\T2A/cmr/m/n/10.95 https : / / www . kaggle . com / ashishpatel26 / quan
+tum-[]computing-[]introduction-[]using-[]python$[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2265--2266
+\T2A/cmr/m/n/10.95 development of information technology.Information technologi
+es
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2265--2266
+\T2A/cmr/m/n/10.95 andcomputer systems, 2012, no. 1, pp. 17^^U31 (in Rus-sian)
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 2265--2266
+\T2A/cmr/m/n/10.95 Closing in on quantum computing. [][]$http : / / www . wired
+ . com / 2014 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2276
+[]\T2A/cmr/m/n/10.95 Nielsen M., Chuang I.Quantum Computation andQuantum
+ []
+
+[96]
+Underfull \hbox (badness 2111) in paragraph at lines 2281--2282
+[]\T2A/cmr/m/n/10.95 Bouwmeester D., Ekert F., Zeilinger A.ThePhysics of Quantu
+m
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 2285--2286
+[]\T2A/cmr/m/n/10.95 Preskill J. Quantum information and quantumcomputation. Vo
+l.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2287--2288
+[]\T2A/cmr/m/n/10.95 Algebraic and Number Theoretic Algorithms.Available at:
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 2289--2290
+[]\T2A/cmr/m/n/10.95 Venegas-Andraca S. E.Quantum Walks for Com-puter Scientist
+s.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2292
+[]\T2A/cmr/m/n/10.95 Kastrenakes Jacob. Researchers smash
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2292
+\T2A/cmr/m/n/10.95 throughquantum computer storage record. Available
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2292
+\T2A/cmr/m/n/10.95 at:http://www.theverge.com/2013/11/14/5104668/qubits-stored-
+for-39
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 2293--2294
+[]\T2A/cmr/m/n/10.95 Kelly J. State preservation by repetitive error detec-tion
+ in a
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2299.
+[97]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2299.
+ (./opisanie.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2299.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2299.
+
+Package rerunfilecheck Info: File `opisanie.out' has not changed.
+(rerunfilecheck)             Checksum: EA47541329E3D25557852EAC2C6AB287;31318.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2299.
+ ) 
+Here is how much of TeX's memory you used:
+ 15691 strings out of 481239
+ 219773 string characters out of 5920378
+ 451489 words of memory out of 5000000
+ 30403 multiletter control sequences out of 15000+600000
+ 552440 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,16n,39p,2477b,706s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfrm1200.pfb>
+Output written on opisanie.pdf (98 pages, 21272385 bytes).
+PDF statistics:
+ 1585 PDF objects out of 1728 (max. 8388607)
+ 1270 compressed objects within 13 object streams
+ 280 named destinations out of 1000 (max. 500000)
+ 1611 words of extra memory for PDF output out of 10000 (max. 10000000)
+
